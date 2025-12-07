@@ -44,7 +44,7 @@ const Signs: React.FC = () => {
         {/* Visual Context Image - SUBSTITUÍDO PELA IMAGEM FORNECIDA PELO USUÁRIO */}
         <div className="w-full lg:w-1/3 min-h-[280px] rounded-xl overflow-hidden relative shadow-lg group border border-gray-200">
           <img 
-            src="/AppMulher/images/mulher_sozinha.png" 
+            src="/images/mulher_sozinha.png" 
             alt="Mulher sentada sozinha no sofá, abraçando os joelhos" 
             className="w-full h-full object-cover object-center"
           />

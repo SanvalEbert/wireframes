@@ -39,7 +39,7 @@ const Help: React.FC = () => {
           {/* Image Highlight - SUBSTITUÍDO PELA IMAGEM FORNECIDA PELO USUÁRIO */}
           <div className="mb-8 rounded-xl overflow-hidden h-48 md:h-64 relative shadow-lg border border-gray-200">
              <img 
-               src="/AppMulher/images/sinal_vermelho.png" 
+               src="/images/sinal_vermelho.png" 
                alt="Sinal vermelho contra a violência doméstica" 
                className="w-full h-full object-cover object-center"
              />
